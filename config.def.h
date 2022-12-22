@@ -36,6 +36,7 @@ static const Rule rules[] = {
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
     { "zoom",     "zoom",     NULL,       0,            1,           -1 },
     { "zoom",     "zoom",     "Zoom Meeting",       0,            0,           -1 },
+    { "zoom",     "zoom",     "Zoom - Licensed Account",       0,            0,           -1 },
 };
 
 /* layout(s) */
